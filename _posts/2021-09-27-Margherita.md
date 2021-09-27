@@ -3,7 +3,7 @@ layout: post
 title:"Margherita "
 date: 2021-09-01
 ---
-<h2> This recipe makes 4 pizzas>
+<h2> This recipe makes 4 pizzas</h2>
 <h1>Ingredients</h1>
 
 <h2>For the dough</h2>
