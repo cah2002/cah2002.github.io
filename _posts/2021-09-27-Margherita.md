@@ -18,6 +18,6 @@ date: 2021-09-01
   
   <h2>For the toppings</h2>
 
-<p1><br>50g parmesan grated
-200g mozzarella from a block, cut into chunks</p1>
+<p1>50g parmesan grated
+<br>200g mozzarella from a block, cut into chunks</p1>
 
