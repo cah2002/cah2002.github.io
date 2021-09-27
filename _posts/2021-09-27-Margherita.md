@@ -14,9 +14,12 @@ date: 2021-09-01
 <h2>For the sauce</h2>
 
   <p1>400g can plum tomatoes (San Marzano are the best)</p1>
-  </p1>1 tbsp extra virgin olive oil , plus extra to serve</p1>
-  <p1>1⁄2 tsp dried oregano</p1>
-  <p1>small bunch basil (leaves picked, stalks reserved)</p1>
+  </p1>
+  1 tbsp extra virgin olive oil , plus extra to serve</p1>
+  <p1>
+  1⁄2 tsp dried oregano</p1>
+  <p1>
+  small bunch basil (leaves picked, stalks reserved)</p1>
   
   <h2>For the toppings</h2>
 
