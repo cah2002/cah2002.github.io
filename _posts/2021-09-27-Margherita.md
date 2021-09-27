@@ -12,7 +12,8 @@ date: 2021-09-01
   500g ‘00’ or strong white flour , plus extra for dusting
   1 sachet (7g) fast-action dried yeast
 </p1>
-  <h2>For the sauce<h2>
+
+  <h2>For the sauce</h2>
 
 <p1>
   400g can plum tomatoes (San Marzano are the best)
