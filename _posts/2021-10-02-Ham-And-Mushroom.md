@@ -4,7 +4,7 @@ title: "Ham And Mushroom"
 date: 2021-10-02
 ---
 
-<h1>Margherita Pizza Recipe</h1>
+<h1>Ham And Mushroom Pizza Recipe</h1>
 <h3> This recipe makes 4 pizzas</h3>
 <h1>Ingredients</h1>
 
