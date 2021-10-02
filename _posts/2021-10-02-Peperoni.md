@@ -10,7 +10,10 @@ date: 2021-10-02
 
 <h2>For the dough</h2>
 
-  <p1> 500g ‘00’ or strong white flour (plus extra for dusting) <br>1 sachet (7g) fast-action dried yeast</p1>
+  <p1> 500g ‘00’ or strong white flour (plus extra for dusting) 
+  <br>1 sachet (7g) fast-action dried yeast
+  <br>30ml tempid water
+  <br>15g Salt</p1>
 
 <h2>For the sauce</h2>
 
