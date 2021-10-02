@@ -4,7 +4,7 @@ title: "Ham And Pineapple"
 date: 2021-10-01
 ---
 
-<h1>Ham Ans Pineapple Pizza Recipe</h1>
+<h1>Ham And Pineapple Pizza Recipe</h1>
 <h3> This recipe makes 4 pizzas</h3>
 <h1>Ingredients</h1>
 
