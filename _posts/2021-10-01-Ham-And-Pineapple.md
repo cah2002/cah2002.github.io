@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Ham And Pineapple"
-date: 2021-10-02
+date: 2021-10-01
 ---
 
 <h1>Margherita Pizza Recipe</h1>
