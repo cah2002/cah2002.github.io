@@ -41,8 +41,7 @@ then either scrunch everything together with your fingers for a chunky sauce or 
 bruise with the back of a knife and place in the sauce. Leave the sauce at room temperature until needed.</p1>
    <h2>STEP 4</h2>
 <p1>To make the pizza, heat a grill to its highest setting and get a heavy frying pan. On a floured surface push and stretch one of the balls of dough out into a
-circle roughly the same size as the frying pan. Slip the round onto a floured baking sheet and top with a quarter of the sauce a few basil
-leaves, a quarter of the mozzarella, a quarter of the pineapple and a quarter of the ham.</p1>
+circle roughly the same size as the frying pan. Slip the round onto a floured baking sheet and top with a quarter of the sauce a quarter of the mozzarella, a quarter of the fontina, a quarter of the gorgonzola and a quarter of the parmesan.</p1>
   <h2>STEP 5</h2>
 <p1>Get the pan very hot and carefully slide the pizza onto it. Cook for 2 mins, then put the pan under the grill for another 2 mins until the sides are puffed 
 up and the cheese has melted. Lift onto a board, drizzle with a little olive oil if you like, then cut into wedges and serve while you make the next one.</p1>
