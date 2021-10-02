@@ -4,7 +4,7 @@ title: "Four Cheese"
 date: 2021-09-28
 ---
 
-<h1>Margherita Pizza Recipe</h1>
+<h1>Peperoni Pizza Recipe</h1>
 <h3> This recipe makes 4 pizzas</h3>
 <h1>Ingredients</h1>
 
