@@ -1,4 +1,4 @@
-# Web Programming Lab 1 - Pizza Blog
+# Web Programming Lab 1 - **Pizza Blog**
 
 ## About me
 
