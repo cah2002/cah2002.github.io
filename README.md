@@ -1,6 +1,6 @@
 # Web Programming Lab 1 - **Pizza Blog**
 
-## About me
+## **About me**
 
 ### I am a second year Computer Science student in Scotland developing my skills in web programming.
 
