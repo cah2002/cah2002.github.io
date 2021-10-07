@@ -4,9 +4,9 @@ title: "Margherita"
 date: 2021-09-01
 ---
 
-<h1>Margherita Pizza Recipe</h1>
-<h3> This recipe makes 4 pizzas</h3>
-<h1>Ingredients</h1>
+#Margherita Pizza Recipe#
+### This recipe makes 4 pizzas ###
+# Ingredients #
 
 <h2>For the dough</h2>
 
