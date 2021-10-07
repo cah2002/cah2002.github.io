@@ -5,8 +5,8 @@ date: 2021-09-01
 ---
 
 <h1>Margherita Pizza Recipe</h1>
-<h3> This recipe makes 4 pizzas </h3>
-# Ingredients #
+<h3> This recipe makes 4 pizzas</h3>
+<h1>Ingredients</h1>
 
 <h2>For the dough</h2>
 
@@ -34,3 +34,5 @@ date: 2021-09-01
 <p1>To make the pizza, heat a grill to its highest setting and get a heavy frying pan. On a floured surface push and stretch one of the balls of dough out into a                circle roughly the same size as the frying pan. Slip the round onto a floured baking sheet and top with a quarter of the sauce, a scattering of cheese, a few basil leaves and a quarter of the mozzarella.</p1>
   <h2>STEP 5</h2>
 <p1>Get the pan very hot and carefully slide the pizza onto it. Cook for 2 mins, then put the pan under the grill for another 2 mins until the sides are puffed up and the cheese has melted. Lift onto a board, drizzle with a little olive oil if you like, then cut into wedges and serve while you make the next one.</p1>
+
+<p1> **Enjoy your Pizza** </p1>
