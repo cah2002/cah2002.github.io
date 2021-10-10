@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: posts
 title: "Margherita"
 date: 2021-09-01
 ---
