@@ -48,6 +48,11 @@ display: inline;
 margin-right: 20px;
 }
 
+li {
+display:block;
+}
+
+
 img {
     animation: colorize 2s cubic-bezier(0, 0, .78, .36) 1;
     background: transparent;
