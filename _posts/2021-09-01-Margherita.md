@@ -16,12 +16,12 @@ date: 2021-09-01
 
   <p1>400g can plum tomatoes (San Marzano are the best)<br>1 tbsp extra virgin olive oil , plus extra to serve
   <br>1⁄2 tsp dried oregano
-  <br>small bunch basil (leaves picked, stalks reserved)</p1>
+  <br>small bunch basil (leaves picked, stalks reserved) </p1>
   
   ## For the toppings
 
 <p1>50g parmesan grated
-<br>200g mozzarella from a block, cut into chunks</p1>
+<br>200g mozzarella from a block, cut into chunks </p1>
   
   # Method
   ## STEP 1
