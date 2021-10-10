@@ -43,7 +43,7 @@ list-style: inline;
 font-weight: bold;
 }
 
-nav ul li, footer ul li {
+nav ul li, footer ul li, ul li {
 display: inline;
 margin-right: 20px;
 }
